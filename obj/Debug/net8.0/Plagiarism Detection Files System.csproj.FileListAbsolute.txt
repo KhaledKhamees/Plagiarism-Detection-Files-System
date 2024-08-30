@@ -1,0 +1,14 @@
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\bin\Debug\net8.0\Plagiarism Detection Files System.exe
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\bin\Debug\net8.0\Plagiarism Detection Files System.deps.json
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\bin\Debug\net8.0\Plagiarism Detection Files System.runtimeconfig.json
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\bin\Debug\net8.0\Plagiarism Detection Files System.dll
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\bin\Debug\net8.0\Plagiarism Detection Files System.pdb
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.AssemblyInfoInputs.cache
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.AssemblyInfo.cs
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.csproj.CoreCompileInputs.cache
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.dll
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\refint\Plagiarism Detection Files System.dll
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.pdb
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\Plagiarism Detection Files System.genruntimeconfig.cache
+D:\Edu\Courses\C#\Projects\Plagiarism detection files system\Plagiarism Detection Files System\obj\Debug\net8.0\ref\Plagiarism Detection Files System.dll
